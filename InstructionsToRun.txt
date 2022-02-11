@@ -1,0 +1,12 @@
+1.Jdk 1.8,Maven and Git and HSSQL DB should be installed.
+2.If you are running via Eclips/Intelij, please configure jDk maven GIT in it.
+3.Please crrate below DB in HSSQL DB
+Database :- testdb
+Table :- T_AUDIT_LOGS
+String event_ID, double duration, String loggerType, String host, boolean alert
+4.I was geting some issues while exporting table so couldn't do it.
+5. Sample input file, you might need to change this path in MonitorLogService file as full path of file.
+I tried  make this path generic due to time limit,coudn't complete it :- 
+D://Projects//loggerAssignmentProject//src//main//java//com//loggerAssignment//inputFiles//logfile.txt
+6.Buid using maven.If running via Eclips/Intelij, run App.java main class else from promt use below command
+java App.java
