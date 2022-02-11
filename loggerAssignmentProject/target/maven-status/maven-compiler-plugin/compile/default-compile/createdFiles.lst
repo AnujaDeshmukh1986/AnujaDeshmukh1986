@@ -1,0 +1,5 @@
+com\loggerAssignment\beans\LoggerBean.class
+App.class
+com\loggerAssignment\service\MonitorLogService.class
+com\loggerAssignment\dao\MonitorLogsDao.class
+com\loggerAssignment\controller\MonitorLogsController.class

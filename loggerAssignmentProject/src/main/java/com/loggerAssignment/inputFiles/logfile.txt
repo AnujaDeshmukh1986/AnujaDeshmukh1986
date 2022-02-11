@@ -1,0 +1,4 @@
+{"id":"scsmbstgrb", "state":"started", "type":"server", "host":"usrd123", "timestamp":1491377495216}
+{"id":"scsmbstgrc", "state":"started", "timestamp":1491377495218}
+{"id":"scsmbstgrb", "state":"finished", "type":"server", "host":"usrd123", "timestamp":1491377495213}
+{"id":"scsmbstgrc", "state":"finished", "timestamp":1491377495210}
